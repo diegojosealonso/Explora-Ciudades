@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+<title>Explora ciudades</title>
+<link href="https://www.exploraciudades.com"/>
+<updated>2026-01-13T14:36:00Z</updated>
+<id>https://www.recetasveganasfaciles.com</id>
+<author>
+    <name>Blog con guías, tips y experiencias para recorrer ciudades de manera práctica y divertida.</name>
+</author>
+<entry>
+    <title>Colina Arthur's Seat en Edimburgo</title>
+    <link href="https://www.exploraciudades.com/arthurs-seat-edimburgo"/>
+    <id>https://www.exploraciudades.com/arthurs-seat-edimburgo</id>
+    <updated>2026-01-13T14:44:00Z</updated>
+    <summary>La localización perfecta para recién llegados a la ciudad y amantes de las vistas.</summary>
+</entry>
+<entry>
+    <title>Peanut Butter Books en Grenoble</title>
+    <link href="https://www.exploraciudades.com/peanut-butter-grenoble"/>
+    <id>https://www.exploraciudades.com/peanut-butter-grenoble</id>
+    <updated>2026-01-13T14:47:00Z</updated>
+    <summary>La librería con mayor cantidad de libros de artistas locales de esta encantadoras ciudad francesa.</summary>
+</entry>
+<entry>
+    <title>Tacos de lentejas</title>
+    <link href="https://www.recetasveganasfaciles.com/tacos-lentejas"/>
+    <id>https://www.recetasveganasfaciles.com/btacos-lentejas</id>
+    <updated>2026-01-13T08:00:00Z</updated>
+    <summary>Una famosa tienda de discos donde pequeños artistas dan conciertos al estilo tiny-desk.</summary>
+</entry>
+</feed>

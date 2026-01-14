@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Explora ciudades</title>
+        <link>https://www.exploraciudades.com</link>
+        <description>Blog con guías, tips y experiencias para recorrer ciudades de manera práctica y divertida.</description>
+        <language>es</language>
+
+        <item>
+            <title>Colina Arthur's Seat en Edimburgo</title>
+            <guid>https://www.exploraciudades.com/arthurs-seat-edimburgo</guid>
+            <description>La localización perfecta para recién llegados a la ciudad y amantes de las vistas.</description>
+        </item>
+
+        <item>
+            <title>Peanut Butter Books en Grenoble</title>
+            <guid>https://www.exploraciudades.com/peanut-butter-grenoble</guid>
+            <description>La librería con mayor cantidad de libros de artistas locales de esta encantadoras ciudad francesa.</description>
+        </item>
+
+        <item>
+            <title>Melting Point Record Store en Berlín</title>
+            <guid>https://www.exploraciudades.com/melting-point-berlin</guid>
+            <description>Una famosa tienda de discos donde pequeños artistas dan conciertos al estilo tiny-desk.</description>
+        </item>
+    
+    </channel>
+</rss>
